@@ -16,3 +16,8 @@ author:
   avatar: "/assets/images/avatar.jpg"
 
 minimal_mistakes_skin: "dark"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
