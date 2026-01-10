@@ -5,11 +5,7 @@ author_profile: true
 
 ## 👋 Hi, I’m Ketan
 
-I’m a **game developer** passionate about building interactive gameplay experiences.
+I’m a **game developer** focused on gameplay systems and interactive experiences.
 
-🎮 **What I work with**
-- Gameplay mechanics
-- 2D & 3D games
-- Prototyping & systems
+👇 Check out my projects below.
 
-⬇️ Scroll down to see my projects
