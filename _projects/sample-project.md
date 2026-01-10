@@ -1,18 +1,16 @@
 ---
 title: "Sample Game Project"
-excerpt: "This is a placeholder project"
+excerpt: "Demo project to verify collection works"
 header:
   teaser: /assets/images/placeholder.jpg
 ---
 
 ### 🎮 Gameplay
-Gameplay video will go here.
+This is a placeholder project.
 
 ### 🛠 Tools Used
 - Unity / Unreal / Godot
 
 ### 🧠 What I Built
-- Core mechanics
-- Player movement
-- Game loop
-
+- Player controller
+- Core game loop
