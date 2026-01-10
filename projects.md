@@ -1,8 +1,7 @@
 ---
 title: Projects
-permalink: /projects/
 layout: single
-entries_layout: grid
+permalink: /projects/
 ---
 
 {% include collection-grid.html collection="projects" %}
