@@ -1,7 +1,5 @@
 title: Ketan Yeola
-email: ketanyeola321@gmail.com
-description: >
-  Game Developer Portfolio
+description: Game Developer Portfolio
 url: "https://ketanyeola.github.io"
 baseurl: ""
 
@@ -10,14 +8,13 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+minimal_mistakes_skin: dark
+
 author:
   name: "Ketan Yeola"
-  bio: "Game Developer | Unreal | XR | Virtual Production "
-  avatar: "/assets/images/avatar.jpg"
-
-minimal_mistakes_skin: "dark"
+  bio: "Game Developer | Gameplay & Systems"
+  avatar: "/assets/images/placeholder.jpg"
 
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
